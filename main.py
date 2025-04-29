@@ -75,7 +75,7 @@ def create_supervisor_team():
 
 def main():
     """Main function to handle CLI chat."""
-    print("\n=== Welcome to Advanced Agno Terminal Chat ===")
+    print("\n=== Agno Reasoning Agents ===")
     print("Using Qwen3:4b model")
     print("Features:")
     print("- Thinker Agent: Deep reasoning for complex questions")
