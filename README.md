@@ -2,16 +2,7 @@
 
 Research complex topics with an AI that thinks, searches, and explains—all running privately on your computer. This assistant harnesses the power of [Agno](https://github.com/agno-ai/agno)'s multi-agent framework to coordinate specialized AI agents with advanced reasoning capabilities. The system leverages Agno's built-in reasoning engine to thoroughly analyze questions, evaluate evidence, and draw logical conclusions. All processing happens locally using Qwen3 through Ollama with 100% privacy—no data sent to external servers.
 
-<p align="center">
-  <video src="assets/agno-reasoninh-agents.mp4"
-         width="600"               <!-- tweak width or remove for full-size -->
-         controls                  <!-- play/pause bar -->
-         muted                     <!-- optional: start muted -->
-         loop                      <!-- optional: loop playback -->
-         playsinline>              <!-- iOS inline playback -->
-    Your browser doesn’t support HTML5 video.
-  </video>
-</p>
+<video src="assets/agno-reasoninh-agents.mp4" controls></video>
 
 ## Why Use This?
 
