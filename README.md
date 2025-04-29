@@ -30,7 +30,7 @@ The project uses a team of specialized AI agents working together:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/lesteroliver911/agno-reasoningagents-local.git
+git clone https://github.com/lesteroliver911/agno-reasoning-agents-local
 cd researchgpt-local
 ```
 
